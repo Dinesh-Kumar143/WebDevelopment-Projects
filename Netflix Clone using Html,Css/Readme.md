@@ -10,7 +10,7 @@ This project is a simple clone of the Netflix web application using HTML and CSS
 - [Usage](#usage)
 - [Folder Structure](#folder-structure)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Project Overview
 
@@ -78,12 +78,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
    ```
 6. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License.
-
----
-
-Feel free to reach out if you have any questions or suggestions!
-
-Happy coding!
